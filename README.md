@@ -1,7 +1,7 @@
 # Pre-trained Language Models for Keyphrase Prediction: A Review!!!
 ---
 ### ⭐️⭐️⭐️Call for Collaboration⭐️⭐️⭐️
-Organized by Behram the Berry (umair@khu.ac.kr)
+#### *Organized by Behram the Berry (umair@khu.ac.kr)*
 ***
 # Overview
 The ability to accurately identify key phrases in a document that summarize its content is of utmost importance, and Keyphrase Prediction (KP) plays a vital role in achieving this goal. Thanks to the advancements in Natural Language Processing (NLP), more efficient KP models have been developed, leveraging deep learning techniques. This paper aims to delve into the topic of Pre-trained Language models for keyphrase prediction (PLM-KP) in a comprehensive manner. These models are trained on large text corpora utilizing various learning techniques, such as supervisor, unsupervised, and self-supervised methods. The focus of this paper is on providing a thorough understanding of two types of NLP tasks, namely Keyphrase Extraction (KPE) and Keyphrase Generation (KPG). To highlight the importance of these essential NLP tasks, appropriate taxonomies are introduced for PLM-KPE and KPG. In addition, some promising future directions for predicting keyphrases are also outlined.
