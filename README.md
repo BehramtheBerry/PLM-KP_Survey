@@ -14,9 +14,9 @@ Organized by Behram the Berry (umair@khu.ac.kr)
 ![Main Taxonomy](https://github.com/BehramtheBerry/PLM-KP_Survey/blob/main/Main_Taxo.png)
 ## Taxonomy of KPG
 #### Categorization of Low-resource
+![Low-resource](https://github.com/BehramtheBerry/PLM-KP_Survey/blob/main/KPG_Low_Taxo.png)
 #### Categorization of Domain-specific
-![Low-resource]()
-![Domain-specific]()
+![Domain-specific](https://github.com/BehramtheBerry/PLM-KP_Survey/blob/main/KPG_DS_Taxo.png)
 ***
 
 
