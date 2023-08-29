@@ -12,7 +12,7 @@ Organized by Behram the Berry (umair@khu.ac.kr)
 # Taxonomy
 #### Categorization of Keyphrase Prediction using Pre-trained Language Models (PLM-KP), centered around two fundamental NLP tasks: Pre-trained Language Model Keyphrase Extraction (PLM-KPE) and Pre-trained Language Model Keyphrase Generation (PLM-KPG).
 ![Main Taxonomy](https://github.com/BehramtheBerry/PLM-KP_Survey/blob/main/Main_Taxo.png)
-## Taxonomy of KPG
+## PLMS for KPG
 #### Categorization of Low-resource
 - Augmentation
 #### Categorization of Domain-specific
